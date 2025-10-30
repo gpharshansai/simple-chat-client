@@ -1,0 +1,3 @@
+The Simple Chat Client is a Java-based application designed to enable real-time text communication between users over a network. It is developed using Java Swing for the graphical user interface (GUI) and Socket Programming for network communication.
+
+The main objective of this project is to provide a basic yet functional chat system where multiple users can send and receive messages instantly. The application consists of two main parts — a Chat Server and a Chat Client. The server manages the connections between clients and ensures that messages are delivered to the correct users, while the client provides an interface for users to type and view messages.
